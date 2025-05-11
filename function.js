@@ -15,7 +15,7 @@ Remover strings
 Imprimir lista
  */
 
-let lista = ["Sh3ld0n","P3nn1","XPTO","1234"]
+let lista = ["Sh3ld0n L33","P3nn1","XPTO","1234"]
 let listaNumeros =[]
 
 function somenteNumeros(lista){
