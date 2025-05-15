@@ -1,0 +1,1 @@
+export const dogs = ["Pantera", "Luna", "Thor"];

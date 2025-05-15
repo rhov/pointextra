@@ -31,3 +31,10 @@ somenteNumeros(lista)
 console.log(`Lista original: ${lista}`);
 console.log(`Lista sem strings: ${listaNumeros}`);
 // Exibir lista
+
+import format,{calc} from './modules/exercicio.js'
+console.log(format("oi"));
+console.log(calc(1,2));
+
+import * as alimentar from './modules/distribuidor-function.js';
+alimentar.peticos();

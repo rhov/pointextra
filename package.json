@@ -1,0 +1,21 @@
+{
+  "name": "pointextra",
+  "version": "1.0.0",
+  "description": "Seu Programa sobre função *   🚀 Hands-on Crie uma função que pega uma lista de inteiros e strings e retorna uma nova lista sem as strings.   O campo abaixo é um campo de texto, logo, copie o código javascript e cole abaixo",
+  "main": "countVowels.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhov/pointextra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhov/pointextra/issues"
+  },
+  "homepage": "https://github.com/rhov/pointextra#readme"
+}
